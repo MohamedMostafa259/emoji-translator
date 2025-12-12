@@ -26,7 +26,7 @@ It was fine-tuned using **Curriculum Learning**, starting from simple concept-to
 - **Live Demo**: [HuggingFace Space](https://huggingface.co/spaces/mohamedmostafa259/emoji-translator-demo)
 - **Model Weights**: [HuggingFace Model Hub](https://huggingface.co/mohamedmostafa259/bart-emoji-translator)
 - **Dataset**: [Kaggle Dataset](https://www.kaggle.com/datasets/mohamedmostafa259/english-to-emoji)
-- **Training Kernel**: [Kaggle Notebook](https://www.kaggle.com/code/mohamedmostafa259/emoji-translator-curriculum-learning)
+- **Training Notebook**: [Kaggle Notebook](https://www.kaggle.com/code/mohamedmostafa259/emoji-translator-curriculum-learning)
 
 ## Infrastructure
 - Trained on **Kaggle** using 2x T4 GPUs.
