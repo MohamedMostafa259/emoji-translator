@@ -7,7 +7,8 @@
 ![Model](https://img.shields.io/badge/Model-BART%20Large-blue)
 ![License](https://img.shields.io/badge/License-Apache%202.0-green)
 
-![App Screenshot](https://raw.githubusercontent.com/MohamedMostafa259/emoji-translator/refs/heads/main/app-screenshot.png)
+[![Emoji Translator Demo](https://raw.githubusercontent.com/MohamedMostafa259/emoji-translator/refs/heads/main/app-screenshot.png)](https://huggingface.co/spaces/mohamedmostafa259/emoji-translator-demo)
+*Click the image above to try the live demo!*
 
 ## Overview
 
